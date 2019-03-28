@@ -1,0 +1,2 @@
+use particles project and asteroids project (in reference folder) as reference for enemy spawn
+use jank mario maker as reference for image implementation and save/load
